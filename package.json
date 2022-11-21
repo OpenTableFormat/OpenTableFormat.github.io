@@ -1,0 +1,23 @@
+{
+  "name": "OpenTableFormat",
+  "version": "0.1.1",
+  "description": "Hugo + Alpine.js + TailwindCSS",
+  "main": "index.js",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.8",
+    "alpinejs": "^3.10.5",
+    "autoprefixer": "^10.4.12",
+    "concurrently": "^7.5.0",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.2.4",
+    "test": "^3.2.1"
+  },
+  "scripts": {
+    "start": "concurrently npm:watch:*",
+    "watch": "hugo server",
+    "build": "hugo --gc --minify",
+    "test": "hugo"
+  },
+  "license": "Apache-2.0"
+}

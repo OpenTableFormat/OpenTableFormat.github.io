@@ -1,0 +1,58 @@
+baseURL = "https://opentableformat.github.io"
+title = "OpenTableFormat"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 9
+darkmode_js = ["assets/js/darkmode.js"]
+enableInlineShortcodes = true
+
+[params]
+author = "Zhao Junwang"
+authorimage = "../assets/images/global/author.png"
+github = "https://github.com/opentableformat"
+sitename = "OpenTableFormat"
+description = "OpenTableFormat is to object storage what constellation is to stars."
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+category = "Categories"
+tag = "Tags"
+
+[privacy]
+[privacy.disqus]
+disable = false
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = false
+respectDoNotTrack = false
+useSessionStorage = false
+[privacy.instagram]
+disable = false
+simple = false
+[privacy.twitter]
+disable = false
+enableDNT = false
+simple = false
+[privacy.vimeo]
+disable = false
+enableDNT = false
+simple = false
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.104.0"
+    max = "0.105.0"
