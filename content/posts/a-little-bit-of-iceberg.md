@@ -96,7 +96,7 @@ Snowflake supports `Iceberg External Tables` as well as `Iceberg Tables`[^snowfl
 
 ![Iceberg Ecosystem](/images/posts/apache-iceberg-ecosystem.png)
 
-![Iceberg Developer Companies](/images/posts/iceberg_contributors.png)
+![Diversity of Contributions by Company](/images/posts/iceberg_contributors.png)
 
 
 ### References:
@@ -109,8 +109,9 @@ Snowflake supports `Iceberg External Tables` as well as `Iceberg Tables`[^snowfl
 [6] [What Are Iceberg Tables In Snowflake? 6 Minute Demo](https://www.youtube.com/watch?v=Kz5cWY_vRwU)<br>
 [7] [Iceberg: a fast table format for S3](https://www.youtube.com/watch?v=nWwQMlrjhy0) by Ryan Blue, Jun 2018<br>
 [8] [Apache Iceberg - A Table Format for Huge Analytic Datasets](https://www.youtube.com/watch?v=mf8Hb0coI6o) by Ryan Blue, Nov 2019<br>
-[9] [Apache Iceberg 101](https://www.youtube.com/playlist?list=PL-gIUf9e9CCtGr_zYdWieJhiqBG_5qSPa) from Dremio, Sep 2022<br>
-[10] [Using Apache Iceberg for Multi-Function Analytics in the Cloud](https://www.youtube.com/watch?v=gCWG6TQZKrQ) by Bill Zhang, Mar 2022
+[9] [Data architecture in 2022](https://www.youtube.com/watch?v=1oXmBbB77ak) by Ryan Blue, May 2022<br>
+[10] [Apache Iceberg 101](https://www.youtube.com/playlist?list=PL-gIUf9e9CCtGr_zYdWieJhiqBG_5qSPa) from Dremio, Sep 2022<br>
+[11] [Using Apache Iceberg for Multi-Function Analytics in the Cloud](https://www.youtube.com/watch?v=gCWG6TQZKrQ) by Bill Zhang, Mar 2022
 
 
 [^iceberg]: [Apache Iceberg](https://github.com/apache/iceberg)
