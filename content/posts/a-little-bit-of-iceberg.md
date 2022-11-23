@@ -62,6 +62,8 @@ Another key capability the Iceberg table format enables is something called "tim
 SELECT * FROM table1 AS OF '2021-01-28 00:00:00';
 ```
 
+A detailed demo can be seen [here](https://www.youtube.com/watch?v=N4gAi_zpN88&t=1480s).
+
 ## Supported Engines
 
 Spark is currently the most well-supported compute engine for Iceberg operations, and lots of other compute engines are making efforts to support this promising table format.
@@ -96,6 +98,8 @@ Snowflake supports `Iceberg External Tables` as well as `Iceberg Tables`[^snowfl
 
 ![Iceberg Ecosystem](/images/posts/apache-iceberg-ecosystem.png)
 
+## Diversity of Contributions by Company (Until April 2022)
+
 ![Diversity of Contributions by Company](/images/posts/iceberg_contributors.png)
 
 
@@ -111,7 +115,8 @@ Snowflake supports `Iceberg External Tables` as well as `Iceberg Tables`[^snowfl
 [8] [Apache Iceberg - A Table Format for Huge Analytic Datasets](https://www.youtube.com/watch?v=mf8Hb0coI6o) by Ryan Blue, Nov 2019<br>
 [9] [Data architecture in 2022](https://www.youtube.com/watch?v=1oXmBbB77ak) by Ryan Blue, May 2022<br>
 [10] [Apache Iceberg 101](https://www.youtube.com/playlist?list=PL-gIUf9e9CCtGr_zYdWieJhiqBG_5qSPa) from Dremio, Sep 2022<br>
-[11] [Using Apache Iceberg for Multi-Function Analytics in the Cloud](https://www.youtube.com/watch?v=gCWG6TQZKrQ) by Bill Zhang, Mar 2022
+[11] [Using Apache Iceberg for Multi-Function Analytics in the Cloud](https://www.youtube.com/watch?v=gCWG6TQZKrQ) by Bill Zhang, Mar 2022<br>
+[12] [Apache Iceberg - An Architectural Look Under the Covers](https://www.youtube.com/watch?v=N4gAi_zpN88&t=386s) by Jason Hughes, Nov 2021<br>
 
 
 [^iceberg]: [Apache Iceberg](https://github.com/apache/iceberg)
