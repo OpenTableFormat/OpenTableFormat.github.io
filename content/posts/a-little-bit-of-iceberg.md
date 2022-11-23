@@ -96,6 +96,8 @@ Snowflake supports `Iceberg External Tables` as well as `Iceberg Tables`[^snowfl
 
 ![Iceberg Ecosystem](/images/posts/apache-iceberg-ecosystem.png)
 
+![Iceberg Developer Companies](/images/posts/iceberg_contributors.png)
+
 
 ### References:
 
